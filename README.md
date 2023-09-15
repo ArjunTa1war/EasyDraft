@@ -8,38 +8,44 @@ A user can also control whether he wants to receive noifications or not
 
 Login Page :-
 
-<img width="1368" alt="Screenshot 2023-09-11 at 12 09 59 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/dabefb8f-52c6-42ea-8448-f16c2f076c24">
+<img width="1376" alt="Screenshot 2023-09-16 at 2 26 51 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/334c0035-11a2-40e3-a587-900d9c3e523f">
+
 
 
 
 Register Page :-
 
-<img width="1364" alt="Screenshot 2023-09-11 at 12 10 09 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/c5d3ca02-9015-4e11-b1e6-b3b6d72ed65f">
+<img width="1367" alt="Screenshot 2023-09-16 at 2 29 28 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/d25015a7-fc36-402f-9bf7-85df7921c791">
+
 
 
 
 Home Page :-
 
-<img width="1347" alt="Screenshot 2023-09-11 at 12 13 35 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/5ca28eb2-d38d-4cd2-b571-a57794f9054b">
+
+<img width="1373" alt="Screenshot 2023-09-16 at 2 28 30 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/e19e7359-5764-45bc-8ee3-5332aa7a223f">
 
 
 
 
 All Doc Page :-
 
-<img width="1357" alt="Screenshot 2023-09-11 at 12 13 53 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/aff64717-8dda-4dad-b77f-ef7274f4756c">
+<img width="1372" alt="Screenshot 2023-09-16 at 2 28 44 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/cfb362d7-5399-4fee-9a2d-946a91dcc349">
+
 
 
 
 Edit doc page :-
 
-<img width="1374" alt="Screenshot 2023-09-11 at 12 14 02 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/6bc10653-f5d6-4271-b8c8-42f6ea91d664">
+
+<img width="1368" alt="Screenshot 2023-09-16 at 2 28 58 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/8890cdc5-2fa4-4b8d-af64-6baf513ea926">
 
 
 
 Setting page :-
 
-<img width="1357" alt="Screenshot 2023-09-11 at 12 13 53 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/84cda678-96ac-4513-b975-012e835dff7b">
+<img width="1367" alt="Screenshot 2023-09-16 at 2 29 13 AM" src="https://github.com/ArjunTa1war/EasyDraft/assets/79759270/912713cc-2496-418f-a734-b4d9143974e4">
+
 
 
 
