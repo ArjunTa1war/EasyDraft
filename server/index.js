@@ -153,10 +153,13 @@ app.put("/updatedoc/:id",async (req, res) => {
           "name":req.params.id,
         }  
         const event = new Event(distinct_id, event_name, properties)
-        const response  = supr_client.track_event(event)
-        response.then((res) => console.log("response", res));
+        try {
+          const response = await supr_client.track_event(event);
+          console.log("response", response);
+        } catch (error) {
+          console.error("Error tracking event:", error);
+        }
       }
-
       res.json({doc});
   } catch (error) {
       console.error(error.message);
@@ -225,8 +228,6 @@ app.post("/sharedoc", fetchuser, async (req, res) => {
     doc.collaborators.push({ user: user._id });
     await doc.save();
 
-    success = true;
-
     const distinct_id = user.email; 
     const event_name = "DOCSHARE" 
     const properties = {				
@@ -235,8 +236,13 @@ app.post("/sharedoc", fetchuser, async (req, res) => {
     }  
     
     const event = new Event(distinct_id, event_name, properties)
-    const response  = supr_client.track_event(event)
-    response.then((res) => console.log("response", res));
+    try {
+      const response = await supr_client.track_event(event);
+      success = true;
+      console.log("response", response);
+    } catch (error) {
+      console.error("Error tracking event:", error);
+    }
     return res.json({ success, doc});
 
   } catch (error) {
